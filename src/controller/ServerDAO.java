@@ -213,7 +213,6 @@ public class ServerDAO {
         String sql = "SELECT * FROM tblruou";
         StringBuilder whereClause = new StringBuilder();
 
-        // Xây dựng điều kiện WHERE dựa vào các tiêu chí
         boolean hasCondition = false;
         if (!nongDo.equals("all")) {
             whereClause.append(" nongdo ");
@@ -247,9 +246,9 @@ public class ServerDAO {
                 whereClause.append(" AND");
             }
             whereClause.append(" nuocsx LIKE '%").append(nuocSanXuat).append("%'");
+            hasCondition = true;
         }
 
-        // Hoàn thiện câu truy vấn nếu có điều kiện WHERE
         if (hasCondition) {
             sql += " WHERE" + whereClause;
         }

@@ -3,11 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/Users/phamv/OneDrive/Documents/NetBeansProjects/LTM_BTL_QuanLyRuou/src/controller/ServerDAO.java</file>
             <file>file:/C:/Users/phamv/OneDrive/Documents/NetBeansProjects/LTM_BTL_QuanLyRuou/src/view/ClientView.java</file>
-            <file>file:/C:/Users/phamv/OneDrive/Documents/NetBeansProjects/LTM_BTL_QuanLyRuou/src/run/ServerRun.java</file>
             <file>file:/C:/Users/phamv/OneDrive/Documents/NetBeansProjects/LTM_BTL_QuanLyRuou/src/run/ClientRun.java</file>
-            <file>file:/C:/Users/phamv/OneDrive/Documents/NetBeansProjects/LTM_BTL_QuanLyRuou/src/controller/ClientCtr.java</file>
-            <file>file:/C:/Users/phamv/OneDrive/Documents/NetBeansProjects/LTM_BTL_QuanLyRuou/src/controller/ServerCtr.java</file>
+            <file>file:/C:/Users/phamv/OneDrive/Documents/NetBeansProjects/LTM_BTL_QuanLyRuou/src/run/ServerRun.java</file>
+            <file>file:/C:/Users/phamv/OneDrive/Documents/NetBeansProjects/LTM_BTL_QuanLyRuou/src/model/Nuocsx.java</file>
+            <file>file:/C:/Users/phamv/OneDrive/Documents/NetBeansProjects/LTM_BTL_QuanLyRuou/src/model/Ruou.java</file>
         </group>
     </open-files>
 </project-private>
